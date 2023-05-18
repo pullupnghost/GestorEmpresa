@@ -24,11 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 4. Compile e execute o arquivo Login.java para iniciar o aplicativo.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme suas necessidades.
+Este projeto está licenciado sob a Licença MIT.
 
-## Contato
-Em caso de dúvidas ou sugestões, entre em contato:
-
-1. Nome: João
-2. E-mail: joaovhorny@gmail.com
-[PSI PROJETO 3.pdf](https://github.com/pullupnghost/GestorEmpresa/files/11507249/PSI.PROJETO.3.pdf)
+## Autor
+João V.
