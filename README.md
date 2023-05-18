@@ -1,6 +1,4 @@
 # GestorEmpresa
-
-## Projeto de Gestão de Funcionários
 Este é um exemplo de projeto para um sistema de gestão de funcionários, desenvolvido em Java Swing. O objetivo deste projeto é demonstrar como utilizar os recursos da biblioteca Java Swing para criar uma interface gráfica e realizar operações básicas de gestão de funcionários.
 
 ## Funcionalidades
