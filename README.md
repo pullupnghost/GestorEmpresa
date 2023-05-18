@@ -22,7 +22,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## Como Executar o Projeto
 1. Certifique-se de ter o JDK (Java Development Kit) instalado.
 2. Clone o repositório do projeto no seu Computador.
-3. Abra o projeto em sua IDE de preferência (recomendamo Eclipse).
+3. Abra o projeto numa IDE de preferência (recomendamo Eclipse).
 4. Compile e execute o arquivo Login.java para iniciar o aplicativo.
 
 ## Licença
